@@ -2,6 +2,8 @@
 
 The 1,000 Most Recent DoorDash reviews are extracted from the Google Play Store to monitor the customer experience of Android users who have downloaded the DoorDash app. Important information for each review is captured, such as the day it was written, the user's overall star rating, and which version of the app the customer has installed.
 
+On May 12, 2022, DoorDash experienced a wide outage leaving many customers, including myself, frustrated with cancelled orders and lack of communication. Point in time images show how the outage negatively affected Doordash's typical ratings in comparison to the period directly surrounding the outage.
+
 Hugging Face's Emotion English DistilRoBERTa-base model has been chosen to classify each review into a pre-determined emotion: Joy, Sadness, Anger, Surprise, Neutral, or Fear. Learn more about the model here, or try it out for yourself!
   - https://huggingface.co/j-hartmann/emotion-english-distilroberta-base
 
