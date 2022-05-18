@@ -11,3 +11,6 @@ Reviews and visuals are refreshed daily via Domo's Jupyter Workspaces (Beta) tec
   - About Jupyter Workspaces: https://domohelp.domo.com/hc/en-us/articles/360047400753-Jupyter-Workspaces-Beta-
   - Instructions for setting up scheduled refreshes using Jupyter Workspaces: https://domopalooza2022.brandlive.com/home/en/session/10a98144-9651-11ec-95c3-9349e7013cba
 
+LinkedIn Discussion: 
+  - https://www.linkedin.com/posts/kendall-ruber_customerexperience-nlp-python-activity-6932474578560585728-PneS?utm_source=linkedin_share&utm_medium=ios_app
+
