@@ -7,7 +7,7 @@ On May 12, 2022, DoorDash experienced a wide outage leaving many customers, incl
 Hugging Face's Emotion English DistilRoBERTa-base model has been chosen to classify each review into a pre-determined emotion: Joy, Sadness, Anger, Surprise, Neutral, or Fear. Learn more about the model here, or try it out for yourself!
   - https://huggingface.co/j-hartmann/emotion-english-distilroberta-base
 
-Reviews and visuals are refreshed daily via Domo's Jupyter Workspaces (Beta) technology, which is a new functionality released in early 2022. 
+Reviews and visuals are refreshed daily via Domo's Jupyter Workspaces (Beta) technology, which is a functionality released in early 2022. 
   - About Jupyter Workspaces: https://domohelp.domo.com/hc/en-us/articles/360047400753-Jupyter-Workspaces-Beta-
   - Instructions for setting up scheduled refreshes using Jupyter Workspaces: https://domopalooza2022.brandlive.com/home/en/session/10a98144-9651-11ec-95c3-9349e7013cba
 
